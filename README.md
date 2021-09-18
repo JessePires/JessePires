@@ -1,16 +1,19 @@
-### Hi there 👋
+![jp(2)](https://user-images.githubusercontent.com/20424496/133869688-1c93b0fa-69f0-4750-a2af-84838a871fd7.png)
 
-<!--
-**JessePires/JessePires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌎 Hello World! Meu nome é Jessé!!
 
-Here are some ideas to get you started:
+💻 Atualmente, estudo na <b>Universidade Tecnológica Federal do Paraná - Campus Campo Mourão</b>!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Aprendendo React, React Native e Node, mas me interesso por quase tudo na computação (você pode acabar se deparando com algo um pouco aleatório 😅)!
+
+[![JessePires GitHub stats](https://github-readme-stats.vercel.app/api?username=JessePires&theme=github_dark&show_icons=true)](https://github.com/JessePires/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Contatos
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesserocha@alunos.utfpr.edu.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jesse-pires-barbato-rocha-933714202)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jessepires2010)
+
+- Obrigado pela visita! 😄
