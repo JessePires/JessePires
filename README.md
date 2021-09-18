@@ -1,10 +1,10 @@
 ![jp(2)](https://user-images.githubusercontent.com/20424496/133869688-1c93b0fa-69f0-4750-a2af-84838a871fd7.png)
 
-## 🌎 Hello World! Meu nome é Jessé!!
+## 🌎 Hello World! Meu nome é Jessé.
 
-💻 Atualmente, estudo na <b>Universidade Tecnológica Federal do Paraná - Campus Campo Mourão</b>!
+💻 Atualmente, estudo na <b>Universidade Tecnológica Federal do Paraná - Campus Campo Mourão</b>.
 
-📚 Aprendendo React, React Native e Node, mas me interesso por quase tudo na computação (você pode acabar se deparando com algo um pouco aleatório 😅)!
+📚 Aprendendo React, React Native e Node, mas me interesso por quase tudo na computação (você pode acabar se deparando com algo um pouco aleatório 😅).
 
 [![JessePires GitHub stats](https://github-readme-stats.vercel.app/api?username=JessePires&theme=github_dark&show_icons=true)](https://github.com/JessePires/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessePires&layout=compact&theme=github_dark)](https://github.com/JessePires/github-readme-stats)
