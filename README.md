@@ -7,7 +7,7 @@
 📚 Aprendendo React, React Native e Node, mas me interesso por quase tudo na computação (você pode acabar se deparando com algo um pouco aleatório 😅)!
 
 [![JessePires GitHub stats](https://github-readme-stats.vercel.app/api?username=JessePires&theme=github_dark&show_icons=true)](https://github.com/JessePires/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/JessePires/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessePires&layout=compact&theme=github_dark)](https://github.com/JessePires/github-readme-stats)
 
 
 ### Contatos
